@@ -23,9 +23,8 @@
 ## Server :
 ![Screenshot_20211002-142504_Termux](https://user-images.githubusercontent.com/81049859/135729121-09a2751d-c165-4211-8bdd-e56711f39895.png)
 
-## Personalización :
+## Credenciales :
 
-## IP Logger :
 
 ## MegaPhishCj7 :
 * Increíble herramienta **Phishing** que **NO** hace uso de plantillas HTML5.
