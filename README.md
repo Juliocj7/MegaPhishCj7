@@ -33,7 +33,7 @@
 
 ## MegaPhishCj7 :
 * Increíble herramienta **Phishing** que **NO** hace uso de plantillas HTML5.
-* Links **reales** y personalizados, según el dominio original, para una mejor ingeniería social.
+* Links **reales** y personalizados (según el dominio original) para una mejor ingeniería social.
 * Obtén las **credenciales** como respaldo en tu /sdcard y/o correo electrónico.
 * Contenido, código, diseño y demás, pertenecen plena y totalmente a mí :sunglasses:
 - > ` By: ⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣ `
