@@ -17,6 +17,9 @@
 ## Menú Principal :
 ![Screenshot_20211002-140232_Termux](https://user-images.githubusercontent.com/81049859/135729112-7cd05b38-51c8-48bc-be1d-47c90e351a9d.png)
 
+## Sitios Web :
+![Screenshot_20211002-142552_Termux](https://user-images.githubusercontent.com/81049859/135729480-9591b791-d660-42b4-b682-6638cb8b9a05.png)
+
 ## Server :
 ![Screenshot_20211002-142504_Termux](https://user-images.githubusercontent.com/81049859/135729121-09a2751d-c165-4211-8bdd-e56711f39895.png)
 
