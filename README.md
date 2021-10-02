@@ -7,7 +7,7 @@
 <summary> Qué es MegaPhishCj7 ? </summary>
 <br>
 
- - MegaPhishCj7 es mi herramienta privada de phishing que NO hace uso de plantillas HTML... 100% funcional!!!.
+ - MegaPhishCj7 es mi herramienta privada de phishing que NO hace uso de plantillas HTML... 100% funcional !!!.
  - Inicio de creación >> 10 de agosto del 2021.
  - Fin de la creación >> 5 de septiembre del 2021.
 
