@@ -4,12 +4,15 @@
 
  
 <details>
-<summary>  ⸸𝕵𝖚𝖑𝖎𝖔𖤐𝖈𝖏7⸸ </summary>
+<summary> Qué es MegaPhishCj7 ? </summary>
 <br>
 
- - 𝑃𝑢𝑒𝑑𝑒𝑠 𝑚𝑖𝑟𝑎𝑟 𝑝𝑒𝑟𝑜... 𝑝𝑜𝑟𝑓𝑎𝑣𝑜𝑟 𝑁𝑂 !!! 𝑐𝑜𝑝𝑖𝑎𝑟 𝑁𝐴𝐷𝐴 !!!
+ - MegaPhishCj7 es mi herramienta privada de phishing que NO hace uso de plantillas 100% funcional.
+ - Inicio de creación >> 10 de agosto del 2021.
+ - Fin de la creación >> 5 de septiembre del 2021.
 
 </details>
+
 
 ## Login :
 ![Screenshot_20211002-140210_Termux](https://user-images.githubusercontent.com/81049859/135729107-eb66878a-7fa2-4107-935f-267b9881719c.png)
