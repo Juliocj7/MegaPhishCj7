@@ -24,6 +24,7 @@
 ![Screenshot_20211002-142504_Termux](https://user-images.githubusercontent.com/81049859/135729121-09a2751d-c165-4211-8bdd-e56711f39895.png)
 
 ## Credenciales :
+![Screenshot_20211002-142121_Termux](https://user-images.githubusercontent.com/81049859/135729594-ef38a77c-5c9a-4608-ab3c-b13340881320.png)
 
 
 ## MegaPhishCj7 :
