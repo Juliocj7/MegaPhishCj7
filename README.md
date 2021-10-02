@@ -12,11 +12,13 @@
 </details>
 
 ## Login :
-
+![Screenshot_20211002-140210_Termux](https://user-images.githubusercontent.com/81049859/135729107-eb66878a-7fa2-4107-935f-267b9881719c.png)
 
 ## Menú Principal :
+![Screenshot_20211002-140232_Termux](https://user-images.githubusercontent.com/81049859/135729112-7cd05b38-51c8-48bc-be1d-47c90e351a9d.png)
 
 ## Server :
+![Screenshot_20211002-142504_Termux](https://user-images.githubusercontent.com/81049859/135729121-09a2751d-c165-4211-8bdd-e56711f39895.png)
 
 ## Personalización :
 
