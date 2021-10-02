@@ -12,21 +12,17 @@
 </details>
 
 ## Menú Principal :
-![Screenshot_20210915-221735_Termux](https://user-images.githubusercontent.com/81049859/133538591-4488e773-985d-441a-9be9-e7b22d8abd09.png)
 
 ## Server :
-![Screenshot_20210929-071738_Termux](https://user-images.githubusercontent.com/81049859/135259307-2333788f-a82a-4820-b549-f41fd5f4a5ee.png)
 
 ## Personalización :
-![Screenshot_20210914-131546_Termux](https://user-images.githubusercontent.com/81049859/133306072-f24e6638-54a9-418d-a815-00fc87e63f7d.png)
 
 ## IP Logger :
-![Screenshot_20210914-132349_Termux](https://user-images.githubusercontent.com/81049859/133306281-b2371e27-c33a-4c8e-bf08-d00edbf14df8.png)
 
-## IPLoggerCj7 :
-* Herramienta que captura la IP de la víctima ( además de varias características ) mediante una plantilla de Google Drive o de **cualquier plantilla** deseada.
-* Personaliza **al máximo** enlaces para una mejor ingeniería social.
-* Obtén la **información** como respaldo en tu /sdcard.
+## MegaPhishCj7 :
+* Increíble herramienta **Phishing** que **NO** hace uso de plantillas HTML5.
+* Links reales y personalizados, según el dominio original, para una mejor ingeniería social.
+* Obtén la **información** como respaldo en tu /sdcard y/o correo electrónico.
 * Contenido, código, diseño y demás, pertenecen plena y totalmente a mí :sunglasses:
 - > ` By: ⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣ `
 
@@ -40,13 +36,13 @@ https://github.com/Juliocj7/UtilsCj7
 
 * `apt update && apt upgrade -y`
 
-* `git clone https://github.com/Juliocj7/IPLoggerCj7`
+* `git clone https://github.com/Juliocj7/MegaPhishCj7`
 
-* `cd IPLoggerCj7`
+* `cd MegaPhishCj7`
 
 * `chmod +x *`
 
-* `bash IPLoggerCj7`
+* `bash MegaPhishCj7`
 
 ---
 ###### `Pd: Porfavor informar cualquier error`
