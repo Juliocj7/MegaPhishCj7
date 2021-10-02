@@ -24,8 +24,8 @@
 ![Screenshot_20211002-142504_Termux](https://user-images.githubusercontent.com/81049859/135729121-09a2751d-c165-4211-8bdd-e56711f39895.png)
 
 ## Prueba (Google) :
-![Screenshot_20211002-142146_Kiwi Browser](https://user-images.githubusercontent.com/81049859/135729854-5c96f3c1-281e-49b3-8223-5aa302aeaa5d.png)
 ![Screenshot_20211002-153853_Kiwi Browser](https://user-images.githubusercontent.com/81049859/135729858-21af3c2e-f1cc-48fb-8f8c-bc5b1aa48c3d.png)
+![Screenshot_20211002-142146_Kiwi Browser](https://user-images.githubusercontent.com/81049859/135729854-5c96f3c1-281e-49b3-8223-5aa302aeaa5d.png)
 
 ## Credenciales :
 ![Screenshot_20211002-142121_Termux](https://user-images.githubusercontent.com/81049859/135729594-ef38a77c-5c9a-4608-ab3c-b13340881320.png)
