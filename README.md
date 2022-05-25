@@ -26,11 +26,14 @@
 
 
 ## Login :
-![Screenshot_20220522-230956_Termux](https://user-images.githubusercontent.com/81049859/169736394-49f9394e-8c2a-46ea-9f7f-b75dad88eaa3.png)
+![Screenshot_20220525-184004_Termux](https://user-images.githubusercontent.com/81049859/170381415-f87db478-3c1b-4bc2-841f-e2e91f3cca43.png)
+
 
 
 ## Menú Principal :
-![Screenshot_20220522-231058_Termux](https://user-images.githubusercontent.com/81049859/169736376-4a94c002-20d8-4c16-a7e5-9a696cbf09a9.png)
+![Screenshot_20220525-184425_Termux](https://user-images.githubusercontent.com/81049859/170381760-9beaef5b-2480-4284-a8dc-f4f9bcb46334.png)
+
+
 
 
 ## Sitios Web :
