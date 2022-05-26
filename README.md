@@ -34,17 +34,14 @@
 ![Screenshot_20220525-184425_Termux](https://user-images.githubusercontent.com/81049859/170381760-9beaef5b-2480-4284-a8dc-f4f9bcb46334.png)
 
 
+|Páginas|Server|
+|-------|-------|
+|![Screenshot_20220525-200730_Termux](https://user-images.githubusercontent.com/81049859/170389318-102e2e5f-858d-4590-8dd9-83428822f563.png)|![Screenshot_20220525-200807_Termux](https://user-images.githubusercontent.com/81049859/170389345-541df02a-9b4e-4238-a91c-1ab685adae9c.png)|
 
 
-## Sitios Web :
-![Screenshot_20211002-142552_Termux](https://user-images.githubusercontent.com/81049859/135729480-9591b791-d660-42b4-b682-6638cb8b9a05.png)
-
-## Server :
-![Screenshot_20211002-142504_Termux](https://user-images.githubusercontent.com/81049859/135729121-09a2751d-c165-4211-8bdd-e56711f39895.png)
-
-## Prueba (Google) :
-![Screenshot_20211002-153853_Kiwi Browser](https://user-images.githubusercontent.com/81049859/135729858-21af3c2e-f1cc-48fb-8f8c-bc5b1aa48c3d.png)
-![Screenshot_20211002-142146_Kiwi Browser](https://user-images.githubusercontent.com/81049859/135729854-5c96f3c1-281e-49b3-8223-5aa302aeaa5d.png)
+|Enlace|Víctima|
+|-------|-------|
+|![Screenshot_20211002-153853_Kiwi Browser](https://user-images.githubusercontent.com/81049859/135729858-21af3c2e-f1cc-48fb-8f8c-bc5b1aa48c3d.png)|![Screenshot_20211002-142146_Kiwi Browser](https://user-images.githubusercontent.com/81049859/135729854-5c96f3c1-281e-49b3-8223-5aa302aeaa5d.png)|
 
 ## Credenciales :
 ![Screenshot_20211002-142121_Termux](https://user-images.githubusercontent.com/81049859/135729594-ef38a77c-5c9a-4608-ab3c-b13340881320.png)
