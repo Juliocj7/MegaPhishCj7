@@ -34,12 +34,12 @@
 ![Screenshot_20220525-184425_Termux](https://user-images.githubusercontent.com/81049859/170381760-9beaef5b-2480-4284-a8dc-f4f9bcb46334.png)
 
 
-|Páginas|Server|
+|Enlace|Server|
 |-------|-------|
 |![Screenshot_20220525-200730_Termux](https://user-images.githubusercontent.com/81049859/170389318-102e2e5f-858d-4590-8dd9-83428822f563.png)|![Screenshot_20220525-200807_Termux](https://user-images.githubusercontent.com/81049859/170389345-541df02a-9b4e-4238-a91c-1ab685adae9c.png)|
 
 
-|Enlace|Víctima|
+|Attack|Victim|
 |-------|-------|
 |![Screenshot_20211002-153853_Kiwi Browser](https://user-images.githubusercontent.com/81049859/135729858-21af3c2e-f1cc-48fb-8f8c-bc5b1aa48c3d.png)|![Screenshot_20211002-142146_Kiwi Browser](https://user-images.githubusercontent.com/81049859/135729854-5c96f3c1-281e-49b3-8223-5aa302aeaa5d.png)|
 
