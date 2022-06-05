@@ -28,16 +28,12 @@
 ## Login :
 ![Screenshot_20220525-184004_Termux](https://user-images.githubusercontent.com/81049859/170381415-f87db478-3c1b-4bc2-841f-e2e91f3cca43.png)
 
-
-
 ## Menú Principal :
 ![Screenshot_20220525-184425_Termux](https://user-images.githubusercontent.com/81049859/170381760-9beaef5b-2480-4284-a8dc-f4f9bcb46334.png)
-
 
 |Enlace|Server|
 |-------|-------|
 |![Screenshot_20220525-200730_Termux](https://user-images.githubusercontent.com/81049859/170389318-102e2e5f-858d-4590-8dd9-83428822f563.png)|![Screenshot_20220525-200807_Termux](https://user-images.githubusercontent.com/81049859/170389345-541df02a-9b4e-4238-a91c-1ab685adae9c.png)|
-
 
 |Attack|Victim|
 |-------|-------|
@@ -45,9 +41,6 @@
 
 ## Credenciales :
 ![Screenshot_20220525-211133_Termux](https://user-images.githubusercontent.com/81049859/170394964-2010c1f5-b231-4bce-9cf9-630cf58952fc.png)
-
-
-
 
 ## MegaPhishCj7 :
 * Increíble herramienta **Phishing** que **NO** hace uso de plantillas HTML5.
@@ -64,8 +57,9 @@
 https://github.com/Juliocj7/UtilsCj7
 ~~~
 
-* `apt update && apt upgrade -y`
-
+```bash
+  yes|pkg update && pkg upgrade
+```
 * `git clone https://github.com/Juliocj7/MegaPhishCj7`
 
 * `cd MegaPhishCj7`
