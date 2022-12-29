@@ -28,7 +28,6 @@
 ## Login :
 ![Screenshot_20221229-084407_Termux](https://user-images.githubusercontent.com/81049859/209952845-3e9a1031-780b-4b59-932f-6da378ac61dd.png)
 
-
 ## Menú Principal :
 ![Screenshot_20221229-084018_Termux](https://user-images.githubusercontent.com/81049859/209952625-d4549e56-83b8-4404-a3c4-c9ec137c9b7a.png)
 
