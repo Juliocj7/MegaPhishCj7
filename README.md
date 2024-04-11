@@ -41,6 +41,10 @@
 |![1000328941](https://github.com/Juliocj7/MegaPhishCj7/assets/81049859/80adcaf8-f579-4093-8d1f-b79881873d8e)|![1000328942](https://github.com/Juliocj7/MegaPhishCj7/assets/81049859/2ed601dd-48ae-4b22-a6d4-dbb9ebf50408)|
 |![1000328937](https://github.com/Juliocj7/MegaPhishCj7/assets/81049859/b133bc95-469e-4ce9-9002-0701b86b1ba5)|![1000328940](https://github.com/Juliocj7/MegaPhishCj7/assets/81049859/2fe91ab3-bdb3-4514-b063-d8927e52cabc)|
 
+|Victim|Victim|Hacker|
+|-------|-------|-------|
+|![1000329200](https://github.com/Juliocj7/MegaPhishCj7/assets/81049859/3983d89a-16a2-4cd7-8386-80931d2a43e0)|![1000329201](https://github.com/Juliocj7/MegaPhishCj7/assets/81049859/7607d634-521e-4428-ac79-c1754be59219)|![1000329203](https://github.com/Juliocj7/MegaPhishCj7/assets/81049859/508b9d1f-fe9e-4538-8fa7-de6e1a0c1434)|
+
 ## MegaPhishCj7 :
 * Increíble herramienta **Phishing** que **NO** hace uso de plantillas HTML5.
 * Links **reales** y personalizados (según el dominio original) para una excelente ingeniería social.
