@@ -35,12 +35,11 @@
 |-------|-------|
 |![1000328882](https://github.com/Juliocj7/MegaPhishCj7/assets/81049859/f483e95c-a1fc-4555-a212-0a5104254e6d)|![1000328883](https://github.com/Juliocj7/MegaPhishCj7/assets/81049859/fe918e13-8929-4a0b-af2b-5eefca303bc1)|
 
-|Attack|Victim|
+|Victim|Hacker|
 |-------|-------|
-|![Screenshot_20220525-211045_Kiwi Browser](https://user-images.githubusercontent.com/81049859/170394898-75bab961-8d7f-4d8d-a1d5-3b8e73b96633.png)|![Screenshot_20220525-211111_Kiwi Browser](https://user-images.githubusercontent.com/81049859/170394930-982ff840-a2a7-4196-b1fa-c9bdcfc080be.png)|
-
-## Credenciales :
-![Screenshot_20220525-211133_Termux](https://user-images.githubusercontent.com/81049859/170394964-2010c1f5-b231-4bce-9cf9-630cf58952fc.png)
+|![1000328934](https://github.com/Juliocj7/MegaPhishCj7/assets/81049859/9e214af5-1001-4450-8531-86100c37ce6c)|![1000328935](https://github.com/Juliocj7/MegaPhishCj7/assets/81049859/fd86d39e-d2a1-4c10-a2ea-9175e56b3af8)|
+|![1000328941](https://github.com/Juliocj7/MegaPhishCj7/assets/81049859/80adcaf8-f579-4093-8d1f-b79881873d8e)|![1000328942](https://github.com/Juliocj7/MegaPhishCj7/assets/81049859/2ed601dd-48ae-4b22-a6d4-dbb9ebf50408)|
+|![1000328937](https://github.com/Juliocj7/MegaPhishCj7/assets/81049859/b133bc95-469e-4ce9-9002-0701b86b1ba5)|![1000328940](https://github.com/Juliocj7/MegaPhishCj7/assets/81049859/2fe91ab3-bdb3-4514-b063-d8927e52cabc)|
 
 ## MegaPhishCj7 :
 * Increíble herramienta **Phishing** que **NO** hace uso de plantillas HTML5.
