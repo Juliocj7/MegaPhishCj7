@@ -26,14 +26,14 @@
 
 
 ## Login :
-![Screenshot_20221229-084407_Termux](https://user-images.githubusercontent.com/81049859/209952845-3e9a1031-780b-4b59-932f-6da378ac61dd.png)
+![1000328880](https://github.com/Juliocj7/MegaPhishCj7/assets/81049859/47d9ac2a-0984-40a9-867e-49efe0e96313)
 
 ## Menú Principal :
-![Screenshot_20221229-084018_Termux](https://user-images.githubusercontent.com/81049859/209952625-d4549e56-83b8-4404-a3c4-c9ec137c9b7a.png)
+![1000328881](https://github.com/Juliocj7/MegaPhishCj7/assets/81049859/cc821fdb-3984-4b6f-ac6d-17c34e478c50)
 
-|Enlace|Server|
+|Website|Servers|
 |-------|-------|
-|![Screenshot_20220525-200730_Termux](https://user-images.githubusercontent.com/81049859/170389318-102e2e5f-858d-4590-8dd9-83428822f563.png)|![Screenshot_20220525-200807_Termux](https://user-images.githubusercontent.com/81049859/170389345-541df02a-9b4e-4238-a91c-1ab685adae9c.png)|
+|![1000328882](https://github.com/Juliocj7/MegaPhishCj7/assets/81049859/f483e95c-a1fc-4555-a212-0a5104254e6d)|![1000328883](https://github.com/Juliocj7/MegaPhishCj7/assets/81049859/fe918e13-8929-4a0b-af2b-5eefca303bc1)|
 
 |Attack|Victim|
 |-------|-------|
