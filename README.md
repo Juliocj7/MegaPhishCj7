@@ -13,17 +13,14 @@
 
 <p align="center"><img src="https://github.com/Juliocj7/Juliocj7/blob/main/InicioCj72.gif" width="350" height="110"/> </p>
 
- 
-<details>
-<summary> Qué es MegaPhishCj7 ? </summary>
-<br>
-
- - MegaPhishCj7 es mi herramienta privada de phishing que NO hace uso de plantillas HTML5... 100% funcional !!!.
- - Inicio de creación >> 20 de septiembre del 2021.
- - Fin de la creación >> 2 de octubre del 2021.
-
+<details align="center">
+<summary>  ⸸𝕵𝖚𝖑𝖎𝖔𖤐𝖈𝖏7⸸ </summary>
+<img src= "https://github.com/Juliocj7/Juliocj7/blob/main/BarCj7.gif"/>
+<br><br>
+<p align="left"><strong><samp>「</samp><strong></p>
+<samp>Puedes mirar pero no copiar<br>inmundo animal xD<br><br>
+<p align="right"><strong><samp>」</samp></strong></p>
 </details>
-
 
 ## Login :
 ![1000328880](https://github.com/Juliocj7/MegaPhishCj7/assets/81049859/47d9ac2a-0984-40a9-867e-49efe0e96313)
