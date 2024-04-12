@@ -31,6 +31,19 @@
 ## Menú Principal :
 ![1000328881](https://github.com/Juliocj7/MegaPhishCj7/assets/81049859/cc821fdb-3984-4b6f-ac6d-17c34e478c50)
 
+<div align="justify">
+  <details align="center">
+    <summary> 𝙳𝚒𝚜𝚌𝚕𝚊𝚒𝚖𝚎𝚛 </summary>
+    <img src= "https://github.com/Juliocj7/Juliocj7/blob/main/BarCj7.gif" />
+    <br>
+    <samp>
+Descargo de responsabilidad legal: Esta herramienta está desarrollada sólo con fines educativos. Aquí se demuestra cómo funciona el phishing. Si alguien quiere obtener acceso no autorizado a las credenciales o a alguna característica del dispositivo de alguien, puede intentarlo bajo su propio riesgo. Usted tiene sus propias responsabilidades y es responsable de cualquier daño o violación de las leyes por parte de esta herramienta. ¡El autor no es responsable del mal uso de MegaPhishCj7!
+    </samp>
+    <br>
+    <img src= "https://github.com/Juliocj7/Juliocj7/blob/main/BarCj7.gif" />
+  </details>
+</div>
+
 |Website|Servers|
 |-------|-------|
 |![1000328882](https://github.com/Juliocj7/MegaPhishCj7/assets/81049859/f483e95c-a1fc-4555-a212-0a5104254e6d)|![1000328883](https://github.com/Juliocj7/MegaPhishCj7/assets/81049859/fe918e13-8929-4a0b-af2b-5eefca303bc1)|
@@ -53,16 +66,13 @@
 - > ` By: ⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣ `
 
 ## Instalación :
-
-* Para un correcto funcionamiento de la herramienta porfavor instale los [recursos básicos](https://github.com/Juliocj7/UtilsCj7) para termux :
-
-~~~
-https://github.com/Juliocj7/UtilsCj7
-~~~
+> [!NOTE]  
+> Para un correcto funcionamiento de esta herramienta porfavor instale los • [recursos básicos](https://github.com/Juliocj7/UtilsCj7) • para termux.
 
 ```bash
-  yes|pkg update && pkg upgrade
+  yes|apt update && apt upgrade
 ```
+
 * `git clone https://github.com/Juliocj7/MegaPhishCj7`
 
 * `cd MegaPhishCj7`
