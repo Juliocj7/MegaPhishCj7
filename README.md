@@ -76,7 +76,7 @@ Descargo de responsabilidad legal: Esta herramienta está desarrollada sólo con
 |![1000329200](https://github.com/Juliocj7/MegaPhishCj7/assets/81049859/3983d89a-16a2-4cd7-8386-80931d2a43e0)|![1000329201](https://github.com/Juliocj7/MegaPhishCj7/assets/81049859/7607d634-521e-4428-ac79-c1754be59219)|![1000329203](https://github.com/Juliocj7/MegaPhishCj7/assets/81049859/508b9d1f-fe9e-4538-8fa7-de6e1a0c1434)|
 
 ## MegaPhishCj7 :
-* Increíble herramienta **Phishing** que **NO** hace uso de plantillas HTML5.
+* Increíble herramienta **phishing** que **NO** hace uso de plantillas HTML5.
 * Links **reales** y personalizados (según el dominio original) para una excelente ingeniería social.
 * Obtén las **credenciales** como respaldo en tu /sdcard y/o correo electrónico.
 * Contenido, código, diseño y demás, pertenecen plena y totalmente a mí :sunglasses:
@@ -86,17 +86,18 @@ Descargo de responsabilidad legal: Esta herramienta está desarrollada sólo con
 > [!NOTE]  
 > Para un correcto funcionamiento de esta herramienta porfavor instale los • [recursos básicos](https://github.com/Juliocj7/UtilsCj7) • para termux.
 
-```bash
-  yes|apt update && apt upgrade
+###### 01. Actualizar paquetes
+```shell
+yes|{apt update && apt upgrade}
 ```
-
-* `git clone https://github.com/Juliocj7/MegaPhishCj7`
-
-* `cd MegaPhishCj7`
-
-* `chmod +x *`
-
-* `bash MegaPhishCj7`
+###### 02. Clonar repositorio
+```shell
+gh repo clone Juliocj7/MegaPhishCj7
+```
+###### 03. Ahora disfruta xD
+```shell
+cd MegaPhishCj7 && chmod +x * && ./MegaPhishCj7
+```
 
 ---
 ###### `Pd: Porfavor informar cualquier error`
