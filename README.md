@@ -80,11 +80,15 @@ Descargo de responsabilidad legal: Esta herramienta está desarrollada sólo con
 * Links **reales** y personalizados (según el dominio original) para una excelente ingeniería social.
 * Obtén las **credenciales** como respaldo en tu /sdcard y/o correo electrónico.
 * Contenido, código, diseño y demás, pertenecen plena y totalmente a mí :sunglasses:
-- > ` By: ⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣ `
+- > 𝙱𝚢: ` ⍣᭕ᬁ᭖𝙹𝚞𝚕𝚒𝚘𖤐𝙲𝚓7᭖᭕ᬁ⍣ `
 
 ## Instalación :
-> [!NOTE]  
-> Para un correcto funcionamiento de esta herramienta porfavor instale los • [recursos básicos](https://github.com/Juliocj7/UtilsCj7) • para termux.
+> [!NOTE]
+> > <details>
+> >   <summary>&nbsp;𝚁𝚎𝚚𝚞𝚒𝚜𝚒𝚝𝚘 𝚒𝚖𝚙𝚘𝚛𝚝𝚊𝚗𝚝𝚎 &#9995;&#127995;</summary>
+> >
+> > <sub>𝙸𝚗𝚜𝚝𝚊𝚕𝚕:</sub> [𝚁𝚎𝚌𝚞𝚛𝚜𝚘𝚜 𝚋𝚊𝚜𝚒𝚌𝚘𝚜](https://github.com/Juliocj7/UtilsCj7)
+> > </details>
 
 ###### 01. Actualizar paquetes
 ```shell
@@ -100,6 +104,21 @@ cd MegaPhishCj7 && chmod +x * && ./MegaPhishCj7
 ```
 
 ---
-###### `Pd: Porfavor informar cualquier error`
-###### `By: JulioCj7 +59179424937` :stuck_out_tongue_winking_eye:
----
+
+```ShellSession
+[𝙼𝚊𝚔𝚎@𝙱𝚢]:~$ #+59179424937 😜
+```
+
+<div align="center">
+  <sub>
+    
+  > 𝙿𝚘𝚛𝚏𝚊𝚟𝚘𝚛 𝚒𝚗𝚏𝚘𝚛𝚖𝚊𝚛 𝚌𝚞𝚊𝚕𝚚𝚞𝚒𝚎𝚛 𝚎𝚛𝚛𝚘𝚛
+
+  </sub>
+</div>
+
+<div align="center">
+  <a href="#--------">
+    <img src= "https://github.com/Juliocj7/Juliocj7/blob/main/BarCj7.gif"/>
+  </a>
+</div>
