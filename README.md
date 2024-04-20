@@ -92,7 +92,7 @@ Descargo de responsabilidad legal: Esta herramienta está desarrollada sólo con
 
 ###### 01. Actualizar paquetes
 ```shell
-yes|{apt update && apt upgrade}
+yes|{ apt update && apt upgrade; }
 ```
 ###### 02. Clonar repositorio
 ```shell
@@ -102,6 +102,12 @@ gh repo clone Juliocj7/MegaPhishCj7
 ```shell
 cd MegaPhishCj7 && chmod +x * && ./MegaPhishCj7
 ```
+
+---
+
+> [!CAUTION]
+> > <sub>𝚂𝚘𝚛𝚛𝚢, 𝚝𝚑𝚒𝚜 𝚒𝚜 𝚞𝚗𝚍𝚎𝚛 𝚖𝚊𝚒𝚗𝚝𝚎𝚗𝚊𝚗𝚌𝚎.</sub><br>
+> > <sub>¡ 𝙰𝚟𝚊𝚒𝚕𝚊𝚋𝚕𝚎 𝚌𝚘𝚖𝚒𝚗𝚐 𝚜𝙾𝙾𝚗 !</sub>
 
 ---
 
