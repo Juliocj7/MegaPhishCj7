@@ -46,7 +46,7 @@ ______________________________________________________
 ![1000344677](https://github.com/Juliocj7/MegaPhishCj7/assets/81049859/4304986c-12c0-4a01-80cd-558f30d5e2f8)
 
 ## Menú Principal :
-![1000328881](https://github.com/Juliocj7/MegaPhishCj7/assets/81049859/cc821fdb-3984-4b6f-ac6d-17c34e478c50)
+![1000351607](https://github.com/Juliocj7/MegaPhishCj7/assets/81049859/979cd337-de09-499f-974b-e20789eb7da6)
 
 <div align="justify">
   <details align="center">
@@ -63,7 +63,7 @@ Descargo de responsabilidad legal: Esta herramienta está desarrollada sólo con
 
 |Website|Servers|
 |:-----:|:-----:|
-|![1000344678](https://github.com/Juliocj7/MegaPhishCj7/assets/81049859/9d64c4d7-50ad-4ded-825a-3e81e3ffd4eb)|![1000344679](https://github.com/Juliocj7/MegaPhishCj7/assets/81049859/9f8ec39f-6c8f-4498-8300-c28e81bf0eb8)|
+|![1000351608](https://github.com/Juliocj7/MegaPhishCj7/assets/81049859/d7dfb182-59a3-4fc3-80bc-670e2294635d)|![1000351615](https://github.com/Juliocj7/MegaPhishCj7/assets/81049859/3d98147a-652a-41c8-8cf7-c9ad66141ab9)|
 
 |Victim|Hacker|
 |:----:|:----:|
