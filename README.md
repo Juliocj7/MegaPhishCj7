@@ -67,13 +67,13 @@ Descargo de responsabilidad legal: Esta herramienta está desarrollada sólo con
 
 |Victim|Hacker|
 |:----:|:----:|
-|![1000344764](https://github.com/Juliocj7/MegaPhishCj7/assets/81049859/bb5ca835-85e2-4103-a523-170708df83f3)|![1000344765](https://github.com/Juliocj7/MegaPhishCj7/assets/81049859/c33af630-8605-4ec0-b06c-c0b11a0c689d)|
-|![1000344762](https://github.com/Juliocj7/MegaPhishCj7/assets/81049859/2c241495-276b-455f-bca8-493c5f59d494)|![1000344763](https://github.com/Juliocj7/MegaPhishCj7/assets/81049859/005a624b-03b8-47a6-ba91-b155205280ce)|
-|![1000344760](https://github.com/Juliocj7/MegaPhishCj7/assets/81049859/fbfaac90-f31b-4425-a107-effe26b0ab3b)|![1000344761](https://github.com/Juliocj7/MegaPhishCj7/assets/81049859/17f5750a-0cb0-4f71-aab7-7e6d0f425cdf)|
+|![1000351890](https://github.com/Juliocj7/MegaPhishCj7/assets/81049859/bf281b36-c59e-4348-8153-354e1035948d)|![1000351891](https://github.com/Juliocj7/MegaPhishCj7/assets/81049859/78484a20-293f-47e6-9861-6077f83a5b1a)|
+|![1000351894](https://github.com/Juliocj7/MegaPhishCj7/assets/81049859/815c3e97-fc19-4c0c-8a21-610211b471c0)|![1000351895](https://github.com/Juliocj7/MegaPhishCj7/assets/81049859/53c45eda-e4cc-4f47-b511-4e7c212b3d4b)|
+|![1000351892](https://github.com/Juliocj7/MegaPhishCj7/assets/81049859/3dd0277a-c0b2-4e77-9417-4c0170082d9b)|![1000351893](https://github.com/Juliocj7/MegaPhishCj7/assets/81049859/c600d32d-a31c-4238-a955-8fd842fad119)|
 
 |Victim|Victim|Hacker|
 |:----:|:----:|:----:|
-|![1000344812](https://github.com/Juliocj7/MegaPhishCj7/assets/81049859/644ed313-be3b-4903-a584-943ce8925cf2)|![1000344813](https://github.com/Juliocj7/MegaPhishCj7/assets/81049859/acf948b2-6a59-440a-9f09-9a515ee8a009)|![1000344814](https://github.com/Juliocj7/MegaPhishCj7/assets/81049859/c08aec4b-061d-4f75-ba2b-a6dddc87aa62)|
+|![1000351896](https://github.com/Juliocj7/MegaPhishCj7/assets/81049859/81355976-263f-4d6f-8913-887e2380f0fe)|![1000351897](https://github.com/Juliocj7/MegaPhishCj7/assets/81049859/cdffe98c-e437-4361-9421-97b28d2e5d57)|![1000351898](https://github.com/Juliocj7/MegaPhishCj7/assets/81049859/b0f163d6-e2e0-4bca-97c6-ea2354dd11fc)|
 
 ## MegaPhishCj7 :
 * Increíble herramienta **phishing** que **NO** hace uso de plantillas HTML5.
