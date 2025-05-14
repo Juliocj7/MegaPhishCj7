@@ -42,10 +42,10 @@
 </div>
 
 ## Login :
-![1000344677](https://github.com/Juliocj7/MegaPhishCj7/assets/81049859/4304986c-12c0-4a01-80cd-558f30d5e2f8)
+[![1000344677](https://github.com/user-attachments/assets/8e8060b9-a723-4aa5-92b5-88ad70792d1b)](#---)
 
 ## Menú Principal :
-![1000351607](https://github.com/Juliocj7/MegaPhishCj7/assets/81049859/979cd337-de09-499f-974b-e20789eb7da6)
+[![1000351607](https://github.com/user-attachments/assets/1893a209-75cb-4ee2-85bb-b6dfa0ce0335)](#---)
 
 <div align="justify">
   <details align="center">
@@ -60,17 +60,17 @@ Descargo de responsabilidad legal: Esta herramienta está desarrollada sólo con
   </details>
 </div>
 
-|Website|Servers|
+|𝚠𝚎𝚋𝚜𝚒𝚝𝚎|𝚜𝚎𝚛𝚟𝚎𝚛𝚜|
 |:-----:|:-----:|
 |![1000351608](https://github.com/Juliocj7/MegaPhishCj7/assets/81049859/d7dfb182-59a3-4fc3-80bc-670e2294635d)|![1000351615](https://github.com/Juliocj7/MegaPhishCj7/assets/81049859/3d98147a-652a-41c8-8cf7-c9ad66141ab9)|
 
-|Victim|Hacker|
+|𝚟𝚒𝚌𝚝𝚒𝚖|𝚑𝚊𝚌𝚔𝚎𝚛|
 |:----:|:----:|
 |![1000351890](https://github.com/Juliocj7/MegaPhishCj7/assets/81049859/bf281b36-c59e-4348-8153-354e1035948d)|![1000351891](https://github.com/Juliocj7/MegaPhishCj7/assets/81049859/78484a20-293f-47e6-9861-6077f83a5b1a)|
 |![1000351894](https://github.com/Juliocj7/MegaPhishCj7/assets/81049859/815c3e97-fc19-4c0c-8a21-610211b471c0)|![1000351895](https://github.com/Juliocj7/MegaPhishCj7/assets/81049859/53c45eda-e4cc-4f47-b511-4e7c212b3d4b)|
 |![1000351892](https://github.com/Juliocj7/MegaPhishCj7/assets/81049859/3dd0277a-c0b2-4e77-9417-4c0170082d9b)|![1000351893](https://github.com/Juliocj7/MegaPhishCj7/assets/81049859/c600d32d-a31c-4238-a955-8fd842fad119)|
 
-|Victim|Victim|Hacker|
+|𝚟𝚒𝚌𝚝𝚒𝚖|𝚟𝚒𝚌𝚝𝚒𝚖|𝚑𝚊𝚌𝚔𝚎𝚛|
 |:----:|:----:|:----:|
 |![1000351896](https://github.com/Juliocj7/MegaPhishCj7/assets/81049859/81355976-263f-4d6f-8913-887e2380f0fe)|![1000351897](https://github.com/Juliocj7/MegaPhishCj7/assets/81049859/cdffe98c-e437-4361-9421-97b28d2e5d57)|![1000351898](https://github.com/Juliocj7/MegaPhishCj7/assets/81049859/b0f163d6-e2e0-4bca-97c6-ea2354dd11fc)|
 
